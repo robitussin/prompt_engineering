@@ -1,5 +1,5 @@
 # prompt_engineering
-This repository contains samples with large language models used with prompt engineering
+This repository contains samples of large language models used with prompt engineering
 
 # Elements of a prompt
 Instruction - a specific task or instruction you want the model to perform
